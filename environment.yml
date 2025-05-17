@@ -1,0 +1,9 @@
+name: real-fake-job-model
+dependencies:
+  - python
+  - seaborn
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - nltk
+  - imblearn
