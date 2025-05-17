@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Install PIP packages and ensure you have all dependencies downloaded (check environment.yml)
    ```sh
-   npm install
+   pip install
    ```
 
 
