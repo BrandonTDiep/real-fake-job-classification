@@ -26,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://sentimusic.onrender.com)
+![image](https://github.com/user-attachments/assets/874ae305-f9e3-4708-835e-747a96bff462)
 
 Real Fake Job Posting Model analysis with Logistic Regression and XGBoost models.
 
@@ -66,6 +66,5 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: client/src/assets/image.png
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
